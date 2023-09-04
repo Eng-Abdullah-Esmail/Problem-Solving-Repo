@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\obj\Debug\PrintName.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\obj\Debug\PrintName.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\obj\Debug\PrintName.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\bin\Debug\PrintName.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\bin\Debug\PrintName.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\bin\Debug\PrintName.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\obj\Debug\PrintName.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PrintName\PrintName\obj\Debug\PrintName.pdb

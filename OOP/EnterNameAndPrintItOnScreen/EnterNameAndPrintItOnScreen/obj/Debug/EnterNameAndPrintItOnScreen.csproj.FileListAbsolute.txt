@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\bin\Debug\EnterNameAndPrintItOnScreen.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\bin\Debug\EnterNameAndPrintItOnScreen.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\bin\Debug\EnterNameAndPrintItOnScreen.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\obj\Debug\EnterNameAndPrintItOnScreen.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\obj\Debug\EnterNameAndPrintItOnScreen.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\obj\Debug\EnterNameAndPrintItOnScreen.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\obj\Debug\EnterNameAndPrintItOnScreen.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\EnterNameAndPrintItOnScreen\EnterNameAndPrintItOnScreen\obj\Debug\EnterNameAndPrintItOnScreen.pdb

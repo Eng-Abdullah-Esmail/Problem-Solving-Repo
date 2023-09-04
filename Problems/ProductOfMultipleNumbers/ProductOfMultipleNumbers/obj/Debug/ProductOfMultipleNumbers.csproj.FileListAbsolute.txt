@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\bin\Debug\ProductOfMultipleNumbers.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\bin\Debug\ProductOfMultipleNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\bin\Debug\ProductOfMultipleNumbers.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\obj\Debug\ProductOfMultipleNumbers.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\obj\Debug\ProductOfMultipleNumbers.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\obj\Debug\ProductOfMultipleNumbers.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\obj\Debug\ProductOfMultipleNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ProductOfMultipleNumbers\ProductOfMultipleNumbers\obj\Debug\ProductOfMultipleNumbers.pdb

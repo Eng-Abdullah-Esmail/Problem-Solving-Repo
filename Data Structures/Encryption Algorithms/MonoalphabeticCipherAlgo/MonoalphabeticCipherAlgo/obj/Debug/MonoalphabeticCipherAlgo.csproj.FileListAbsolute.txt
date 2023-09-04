@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\bin\Debug\MonoalphabeticCipherAlgo.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\bin\Debug\MonoalphabeticCipherAlgo.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\bin\Debug\MonoalphabeticCipherAlgo.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\obj\Debug\MonoalphabeticCipherAlgo.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\obj\Debug\MonoalphabeticCipherAlgo.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\obj\Debug\MonoalphabeticCipherAlgo.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\obj\Debug\MonoalphabeticCipherAlgo.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\MonoalphabeticCipherAlgo\MonoalphabeticCipherAlgo\obj\Debug\MonoalphabeticCipherAlgo.pdb

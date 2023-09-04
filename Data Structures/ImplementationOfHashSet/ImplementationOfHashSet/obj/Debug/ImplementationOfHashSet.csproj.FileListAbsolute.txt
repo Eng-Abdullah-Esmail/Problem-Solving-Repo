@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\bin\Debug\ImplementationOfHashSet.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\bin\Debug\ImplementationOfHashSet.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\bin\Debug\ImplementationOfHashSet.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\obj\Debug\ImplementationOfHashSet.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\obj\Debug\ImplementationOfHashSet.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\obj\Debug\ImplementationOfHashSet.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\obj\Debug\ImplementationOfHashSet.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfHashSet\ImplementationOfHashSet\obj\Debug\ImplementationOfHashSet.pdb

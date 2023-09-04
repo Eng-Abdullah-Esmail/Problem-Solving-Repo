@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\A Programming\Pro Lang\c++\Algorithms And Problem Solving\Algorithm Level1\AreaOfCircle\AreaOfCircle\Source.cpp(5,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  AreaOfCircle.vcxproj -> D:\A Programming\Pro Lang\c++\Algorithms And Problem Solving\Algorithm Level1\AreaOfCircle\x64\Debug\AreaOfCircle.exe

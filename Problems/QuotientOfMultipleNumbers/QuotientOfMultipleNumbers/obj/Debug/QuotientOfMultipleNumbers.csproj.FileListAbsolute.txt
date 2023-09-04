@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\bin\Debug\QuotientOfMultipleNumbers.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\bin\Debug\QuotientOfMultipleNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\bin\Debug\QuotientOfMultipleNumbers.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\obj\Debug\QuotientOfMultipleNumbers.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\obj\Debug\QuotientOfMultipleNumbers.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\obj\Debug\QuotientOfMultipleNumbers.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\obj\Debug\QuotientOfMultipleNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\QuotientOfMultipleNumbers\QuotientOfMultipleNumbers\obj\Debug\QuotientOfMultipleNumbers.pdb

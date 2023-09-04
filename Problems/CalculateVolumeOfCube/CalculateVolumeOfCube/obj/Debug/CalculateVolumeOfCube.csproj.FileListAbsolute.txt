@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\bin\Debug\CalculateVolumeOfCube.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\bin\Debug\CalculateVolumeOfCube.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\bin\Debug\CalculateVolumeOfCube.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\obj\Debug\CalculateVolumeOfCube.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\obj\Debug\CalculateVolumeOfCube.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\obj\Debug\CalculateVolumeOfCube.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\obj\Debug\CalculateVolumeOfCube.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCube\CalculateVolumeOfCube\obj\Debug\CalculateVolumeOfCube.pdb

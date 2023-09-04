@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\YearToCenturyConversion\YearToCenturyConversion\Source.cpp(19,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  YearToCenturyConversion.vcxproj -> D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\YearToCenturyConversion\x64\Debug\YearToCenturyConversion.exe

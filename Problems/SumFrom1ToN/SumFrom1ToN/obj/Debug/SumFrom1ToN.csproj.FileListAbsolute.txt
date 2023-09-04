@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\bin\Debug\SumFrom1ToN.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\bin\Debug\SumFrom1ToN.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\bin\Debug\SumFrom1ToN.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\obj\Debug\SumFrom1ToN.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\obj\Debug\SumFrom1ToN.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\obj\Debug\SumFrom1ToN.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\obj\Debug\SumFrom1ToN.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SumFrom1ToN\SumFrom1ToN\obj\Debug\SumFrom1ToN.pdb

@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\bin\Debug\ImplementationOfLists.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\bin\Debug\ImplementationOfLists.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\bin\Debug\ImplementationOfLists.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\obj\Debug\ImplementationOfLists.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\obj\Debug\ImplementationOfLists.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\obj\Debug\ImplementationOfLists.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\obj\Debug\ImplementationOfLists.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfLists\ImplementationOfLists\obj\Debug\ImplementationOfLists.pdb

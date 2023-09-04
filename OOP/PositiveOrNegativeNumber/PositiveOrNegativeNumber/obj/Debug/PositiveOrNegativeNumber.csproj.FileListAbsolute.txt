@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\bin\Debug\PositiveOrNegativeNumber.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\bin\Debug\PositiveOrNegativeNumber.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\bin\Debug\PositiveOrNegativeNumber.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\obj\Debug\PositiveOrNegativeNumber.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\obj\Debug\PositiveOrNegativeNumber.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\obj\Debug\PositiveOrNegativeNumber.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\obj\Debug\PositiveOrNegativeNumber.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\ConsoleApplications\OOP\PositiveOrNegativeNumber\PositiveOrNegativeNumber\obj\Debug\PositiveOrNegativeNumber.pdb

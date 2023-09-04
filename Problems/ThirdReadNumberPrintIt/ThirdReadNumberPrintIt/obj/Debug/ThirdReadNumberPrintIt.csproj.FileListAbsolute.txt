@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\bin\Debug\ThirdReadNumberPrintIt.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\bin\Debug\ThirdReadNumberPrintIt.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\bin\Debug\ThirdReadNumberPrintIt.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\obj\Debug\ThirdReadNumberPrintIt.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\obj\Debug\ThirdReadNumberPrintIt.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\obj\Debug\ThirdReadNumberPrintIt.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\obj\Debug\ThirdReadNumberPrintIt.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ThirdReadNumberPrintIt\ThirdReadNumberPrintIt\obj\Debug\ThirdReadNumberPrintIt.pdb

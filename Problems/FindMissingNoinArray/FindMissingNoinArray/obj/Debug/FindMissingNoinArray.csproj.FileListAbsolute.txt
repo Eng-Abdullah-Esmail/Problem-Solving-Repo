@@ -1,0 +1,8 @@
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\bin\Debug\FindMissingNoinArray.exe.config
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\bin\Debug\FindMissingNoinArray.exe
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\bin\Debug\FindMissingNoinArray.pdb
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\obj\Debug\FindMissingNoinArray.csproj.AssemblyReference.cache
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\obj\Debug\FindMissingNoinArray.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\obj\Debug\FindMissingNoinArray.csproj.CoreCompileInputs.cache
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\obj\Debug\FindMissingNoinArray.exe
+D:\A Programming\MyGitHubProj\Problem Solving\FindMissingNoinArray\FindMissingNoinArray\obj\Debug\FindMissingNoinArray.pdb

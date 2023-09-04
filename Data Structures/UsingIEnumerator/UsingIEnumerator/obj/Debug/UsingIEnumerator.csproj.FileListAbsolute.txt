@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\bin\Debug\UsingIEnumerator.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\bin\Debug\UsingIEnumerator.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\bin\Debug\UsingIEnumerator.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\obj\Debug\UsingIEnumerator.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\obj\Debug\UsingIEnumerator.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\obj\Debug\UsingIEnumerator.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\obj\Debug\UsingIEnumerator.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingIEnumerator\UsingIEnumerator\obj\Debug\UsingIEnumerator.pdb

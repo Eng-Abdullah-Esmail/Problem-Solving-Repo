@@ -1,0 +1,14 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\CSharpOddEvenAdvancedSolution.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\CSharpOddEvenAdvancedSolution.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\CSharpOddEvenAdvancedSolution.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\Serilog.dll
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\Serilog.Sinks.File.dll
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\Serilog.xml
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\Serilog.Sinks.File.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\bin\Debug\Serilog.Sinks.File.xml
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CSharpOddEvenAdvancedSolution\CSharpOddEvenAdvancedSolution\obj\Debug\CSharpOddEvenAdvancedSolution.csproj.CopyComplete

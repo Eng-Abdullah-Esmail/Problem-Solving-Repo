@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\bin\Debug\CircularQueueImplementation.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\bin\Debug\CircularQueueImplementation.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\bin\Debug\CircularQueueImplementation.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\obj\Debug\CircularQueueImplementation.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\obj\Debug\CircularQueueImplementation.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\obj\Debug\CircularQueueImplementation.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\obj\Debug\CircularQueueImplementation.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\CircularQueueImplementation\CircularQueueImplementation\obj\Debug\CircularQueueImplementation.pdb

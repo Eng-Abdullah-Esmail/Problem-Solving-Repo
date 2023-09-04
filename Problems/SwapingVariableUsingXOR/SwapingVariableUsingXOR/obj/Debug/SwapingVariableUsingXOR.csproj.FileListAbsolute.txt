@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\bin\Debug\SwapingVariableUsingXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\bin\Debug\SwapingVariableUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\bin\Debug\SwapingVariableUsingXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\obj\Debug\SwapingVariableUsingXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\obj\Debug\SwapingVariableUsingXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\obj\Debug\SwapingVariableUsingXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\obj\Debug\SwapingVariableUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapingVariableUsingXOR\SwapingVariableUsingXOR\obj\Debug\SwapingVariableUsingXOR.pdb

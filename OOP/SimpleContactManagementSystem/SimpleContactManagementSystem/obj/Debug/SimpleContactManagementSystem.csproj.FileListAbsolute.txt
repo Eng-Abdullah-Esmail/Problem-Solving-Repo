@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\obj\Debug\SimpleContactManagementSystem.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\obj\Debug\SimpleContactManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\obj\Debug\SimpleContactManagementSystem.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\bin\Debug\SimpleContactManagementSystem.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\bin\Debug\SimpleContactManagementSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\bin\Debug\SimpleContactManagementSystem.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\obj\Debug\SimpleContactManagementSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleContactManagementSystem\SimpleContactManagementSystem\obj\Debug\SimpleContactManagementSystem.pdb

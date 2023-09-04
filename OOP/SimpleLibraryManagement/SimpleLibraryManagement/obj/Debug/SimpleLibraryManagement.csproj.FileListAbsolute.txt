@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\bin\Debug\SimpleLibraryManagement.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\bin\Debug\SimpleLibraryManagement.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\bin\Debug\SimpleLibraryManagement.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\obj\Debug\SimpleLibraryManagement.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\obj\Debug\SimpleLibraryManagement.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\obj\Debug\SimpleLibraryManagement.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\obj\Debug\SimpleLibraryManagement.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleLibraryManagement\SimpleLibraryManagement\obj\Debug\SimpleLibraryManagement.pdb

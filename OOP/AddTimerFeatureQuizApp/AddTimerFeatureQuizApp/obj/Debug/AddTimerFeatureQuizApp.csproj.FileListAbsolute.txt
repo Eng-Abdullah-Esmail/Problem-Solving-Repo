@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\bin\Debug\AddTimerFeatureQuizApp.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\bin\Debug\AddTimerFeatureQuizApp.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\bin\Debug\AddTimerFeatureQuizApp.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\obj\Debug\AddTimerFeatureQuizApp.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\obj\Debug\AddTimerFeatureQuizApp.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\obj\Debug\AddTimerFeatureQuizApp.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\obj\Debug\AddTimerFeatureQuizApp.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\AddTimerFeatureQuizApp\AddTimerFeatureQuizApp\obj\Debug\AddTimerFeatureQuizApp.pdb

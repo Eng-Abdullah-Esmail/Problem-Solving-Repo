@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\bin\Debug\HashSetAddRemoveElements.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\bin\Debug\HashSetAddRemoveElements.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\bin\Debug\HashSetAddRemoveElements.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\obj\Debug\HashSetAddRemoveElements.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\obj\Debug\HashSetAddRemoveElements.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\obj\Debug\HashSetAddRemoveElements.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\obj\Debug\HashSetAddRemoveElements.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\HashSetAddRemoveElements\HashSetAddRemoveElements\obj\Debug\HashSetAddRemoveElements.pdb

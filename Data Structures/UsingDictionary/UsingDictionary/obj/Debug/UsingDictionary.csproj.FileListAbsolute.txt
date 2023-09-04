@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\bin\Debug\UsingDictionary.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\UsingDictionary\UsingDictionary\obj\Debug\UsingDictionary.pdb

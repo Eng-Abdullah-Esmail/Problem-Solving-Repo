@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\bin\Debug\RoundDecimalNumSomePoint.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\bin\Debug\RoundDecimalNumSomePoint.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\bin\Debug\RoundDecimalNumSomePoint.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\obj\Debug\RoundDecimalNumSomePoint.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\obj\Debug\RoundDecimalNumSomePoint.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\obj\Debug\RoundDecimalNumSomePoint.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\obj\Debug\RoundDecimalNumSomePoint.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\RoundDecimalNumSomePoint\RoundDecimalNumSomePoint\obj\Debug\RoundDecimalNumSomePoint.pdb

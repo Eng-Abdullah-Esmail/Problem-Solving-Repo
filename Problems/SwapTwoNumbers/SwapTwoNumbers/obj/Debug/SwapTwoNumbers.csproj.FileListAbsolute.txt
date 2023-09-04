@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\SwapTwoNumbers.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\SwapTwoNumbers.pdb

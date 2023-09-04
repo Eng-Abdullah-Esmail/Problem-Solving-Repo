@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\bin\Debug\FindMaxInArrayXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\bin\Debug\FindMaxInArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\bin\Debug\FindMaxInArrayXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\obj\Debug\FindMaxInArrayXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\obj\Debug\FindMaxInArrayXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\obj\Debug\FindMaxInArrayXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\obj\Debug\FindMaxInArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxInArrayXOR\FindMaxInArrayXOR\obj\Debug\FindMaxInArrayXOR.pdb

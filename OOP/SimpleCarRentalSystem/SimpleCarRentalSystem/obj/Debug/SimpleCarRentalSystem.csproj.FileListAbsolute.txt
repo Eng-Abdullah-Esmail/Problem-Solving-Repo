@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\bin\Debug\SimpleCarRentalSystem.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\bin\Debug\SimpleCarRentalSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\bin\Debug\SimpleCarRentalSystem.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\obj\Debug\SimpleCarRentalSystem.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\obj\Debug\SimpleCarRentalSystem.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\obj\Debug\SimpleCarRentalSystem.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\obj\Debug\SimpleCarRentalSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleCarRentalSystem\SimpleCarRentalSystem\obj\Debug\SimpleCarRentalSystem.pdb

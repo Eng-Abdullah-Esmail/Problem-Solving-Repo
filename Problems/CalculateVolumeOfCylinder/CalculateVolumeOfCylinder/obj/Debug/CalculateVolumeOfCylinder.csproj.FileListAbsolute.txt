@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\bin\Debug\CalculateVolumeOfCylinder.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\bin\Debug\CalculateVolumeOfCylinder.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\bin\Debug\CalculateVolumeOfCylinder.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\obj\Debug\CalculateVolumeOfCylinder.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\obj\Debug\CalculateVolumeOfCylinder.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\obj\Debug\CalculateVolumeOfCylinder.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\obj\Debug\CalculateVolumeOfCylinder.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateVolumeOfCylinder\CalculateVolumeOfCylinder\obj\Debug\CalculateVolumeOfCylinder.pdb

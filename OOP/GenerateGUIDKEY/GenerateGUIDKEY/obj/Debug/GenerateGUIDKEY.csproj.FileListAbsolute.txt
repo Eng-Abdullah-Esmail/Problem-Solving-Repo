@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\bin\Debug\GenerateGUIDKEY.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\bin\Debug\GenerateGUIDKEY.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\bin\Debug\GenerateGUIDKEY.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\obj\Debug\GenerateGUIDKEY.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\obj\Debug\GenerateGUIDKEY.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\obj\Debug\GenerateGUIDKEY.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\obj\Debug\GenerateGUIDKEY.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\GenerateGUIDKEY\GenerateGUIDKEY\obj\Debug\GenerateGUIDKEY.pdb

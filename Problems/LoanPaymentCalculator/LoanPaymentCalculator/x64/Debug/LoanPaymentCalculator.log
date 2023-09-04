@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\A Programming\Pro Lang\c++\Algorithms And Problem Solving\Algorithm Level1\LoanPaymentCalculator\LoanPaymentCalculator\Source.cpp(7,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LoanPaymentCalculator.vcxproj -> D:\A Programming\Pro Lang\c++\Algorithms And Problem Solving\Algorithm Level1\LoanPaymentCalculator\x64\Debug\LoanPaymentCalculator.exe

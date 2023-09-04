@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\bin\Debug\SimpleQuizApplication.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\bin\Debug\SimpleQuizApplication.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\bin\Debug\SimpleQuizApplication.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\obj\Debug\SimpleQuizApplication.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\obj\Debug\SimpleQuizApplication.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\obj\Debug\SimpleQuizApplication.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\obj\Debug\SimpleQuizApplication.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleQuizApplication\SimpleQuizApplication\obj\Debug\SimpleQuizApplication.pdb

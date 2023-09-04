@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\bin\Debug\DetectingDuplicatedInArrayXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\bin\Debug\DetectingDuplicatedInArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\bin\Debug\DetectingDuplicatedInArrayXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\obj\Debug\DetectingDuplicatedInArrayXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\obj\Debug\DetectingDuplicatedInArrayXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\obj\Debug\DetectingDuplicatedInArrayXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\obj\Debug\DetectingDuplicatedInArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingDuplicatedInArrayXOR\DetectingDuplicatedInArrayXOR\obj\Debug\DetectingDuplicatedInArrayXOR.pdb

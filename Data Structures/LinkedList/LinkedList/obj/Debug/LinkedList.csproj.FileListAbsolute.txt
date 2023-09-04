@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

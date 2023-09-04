@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\bin\Debug\BitwiseOperatorWithPermissions.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\bin\Debug\BitwiseOperatorWithPermissions.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\bin\Debug\BitwiseOperatorWithPermissions.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\obj\Debug\BitwiseOperatorWithPermissions.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\obj\Debug\BitwiseOperatorWithPermissions.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\obj\Debug\BitwiseOperatorWithPermissions.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\obj\Debug\BitwiseOperatorWithPermissions.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\BitwiseOperatorWithPermissions\BitwiseOperatorWithPermissions\obj\Debug\BitwiseOperatorWithPermissions.pdb

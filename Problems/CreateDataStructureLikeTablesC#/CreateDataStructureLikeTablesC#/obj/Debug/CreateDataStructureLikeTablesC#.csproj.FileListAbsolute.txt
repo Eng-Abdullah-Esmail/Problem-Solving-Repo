@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\bin\Debug\CreateDataStructureLikeTablesC#.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\bin\Debug\CreateDataStructureLikeTablesC#.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\bin\Debug\CreateDataStructureLikeTablesC#.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\obj\Debug\CreateDataStructureLikeTablesC#.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\obj\Debug\CreateDataStructureLikeTablesC#.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\obj\Debug\CreateDataStructureLikeTablesC#.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\obj\Debug\CreateDataStructureLikeTablesC#.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\Algorithm Level1\CreateDataStructureLikeTablesC#\CreateDataStructureLikeTablesC#\obj\Debug\CreateDataStructureLikeTablesC#.pdb

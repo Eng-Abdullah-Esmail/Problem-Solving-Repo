@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\bin\Debug\Tic-tac-toe game.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\bin\Debug\Tic-tac-toe game.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\bin\Debug\Tic-tac-toe game.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\obj\Debug\Tic-tac-toe game.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\obj\Debug\Tic-tac-toe game.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\obj\Debug\Tic-tac-toe game.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\obj\Debug\Tic-tac-toe game.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\Tic-tac-toe game\Tic-tac-toe game\obj\Debug\Tic-tac-toe game.pdb

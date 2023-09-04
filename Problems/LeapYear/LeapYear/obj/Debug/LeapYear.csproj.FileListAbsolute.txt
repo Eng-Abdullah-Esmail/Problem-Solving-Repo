@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\LeapYear\LeapYear\obj\Debug\LeapYear.pdb

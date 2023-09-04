@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\bin\Debug\ImplementationOfStack.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\bin\Debug\ImplementationOfStack.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\bin\Debug\ImplementationOfStack.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\obj\Debug\ImplementationOfStack.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\obj\Debug\ImplementationOfStack.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\obj\Debug\ImplementationOfStack.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\obj\Debug\ImplementationOfStack.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfStack\ImplementationOfStack\obj\Debug\ImplementationOfStack.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\bin\Debug\FirstWelcome.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\bin\Debug\FirstWelcome.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\bin\Debug\FirstWelcome.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\obj\Debug\FirstWelcome.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\obj\Debug\FirstWelcome.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\obj\Debug\FirstWelcome.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\obj\Debug\FirstWelcome.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FirstWelcome\FirstWelcome\obj\Debug\FirstWelcome.pdb

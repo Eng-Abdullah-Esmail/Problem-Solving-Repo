@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\bin\Debug\6thMultiplication.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\bin\Debug\6thMultiplication.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\bin\Debug\6thMultiplication.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\obj\Debug\6thMultiplication.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\obj\Debug\6thMultiplication.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\obj\Debug\6thMultiplication.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\obj\Debug\6thMultiplication.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\6thMultiplication\6thMultiplication\obj\Debug\6thMultiplication.pdb

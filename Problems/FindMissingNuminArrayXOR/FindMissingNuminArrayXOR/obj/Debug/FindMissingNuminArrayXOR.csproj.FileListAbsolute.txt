@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\bin\Debug\FindMissingNuminArrayXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\bin\Debug\FindMissingNuminArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\bin\Debug\FindMissingNuminArrayXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\obj\Debug\FindMissingNuminArrayXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\obj\Debug\FindMissingNuminArrayXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\obj\Debug\FindMissingNuminArrayXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\obj\Debug\FindMissingNuminArrayXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMissingNuminArrayXOR\FindMissingNuminArrayXOR\obj\Debug\FindMissingNuminArrayXOR.pdb

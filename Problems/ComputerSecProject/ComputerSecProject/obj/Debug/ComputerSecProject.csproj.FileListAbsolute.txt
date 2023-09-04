@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\bin\Debug\ComputerSecProject.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\bin\Debug\ComputerSecProject.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\bin\Debug\ComputerSecProject.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\obj\Debug\ComputerSecProject.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\obj\Debug\ComputerSecProject.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\obj\Debug\ComputerSecProject.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\obj\Debug\ComputerSecProject.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\ComputerSecProject\ComputerSecProject\obj\Debug\ComputerSecProject.pdb

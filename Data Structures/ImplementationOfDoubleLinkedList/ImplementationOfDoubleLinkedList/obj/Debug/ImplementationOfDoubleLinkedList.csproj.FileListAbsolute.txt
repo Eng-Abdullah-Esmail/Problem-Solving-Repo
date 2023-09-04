@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\bin\Debug\ImplementationOfDoubleLinkedList.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\bin\Debug\ImplementationOfDoubleLinkedList.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\bin\Debug\ImplementationOfDoubleLinkedList.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\obj\Debug\ImplementationOfDoubleLinkedList.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\obj\Debug\ImplementationOfDoubleLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\obj\Debug\ImplementationOfDoubleLinkedList.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\obj\Debug\ImplementationOfDoubleLinkedList.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfDoubleLinkedList\ImplementationOfDoubleLinkedList\obj\Debug\ImplementationOfDoubleLinkedList.pdb

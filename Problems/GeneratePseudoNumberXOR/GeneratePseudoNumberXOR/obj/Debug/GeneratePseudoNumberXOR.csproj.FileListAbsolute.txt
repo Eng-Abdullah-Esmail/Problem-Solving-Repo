@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\bin\Debug\GeneratePseudoNumberXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\bin\Debug\GeneratePseudoNumberXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\bin\Debug\GeneratePseudoNumberXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\obj\Debug\GeneratePseudoNumberXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\obj\Debug\GeneratePseudoNumberXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\obj\Debug\GeneratePseudoNumberXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\obj\Debug\GeneratePseudoNumberXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GeneratePseudoNumberXOR\GeneratePseudoNumberXOR\obj\Debug\GeneratePseudoNumberXOR.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\bin\Debug\FindMaxWithinArray.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\bin\Debug\FindMaxWithinArray.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\bin\Debug\FindMaxWithinArray.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\obj\Debug\FindMaxWithinArray.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\obj\Debug\FindMaxWithinArray.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\obj\Debug\FindMaxWithinArray.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\obj\Debug\FindMaxWithinArray.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\FindMaxWithinArray\FindMaxWithinArray\obj\Debug\FindMaxWithinArray.pdb

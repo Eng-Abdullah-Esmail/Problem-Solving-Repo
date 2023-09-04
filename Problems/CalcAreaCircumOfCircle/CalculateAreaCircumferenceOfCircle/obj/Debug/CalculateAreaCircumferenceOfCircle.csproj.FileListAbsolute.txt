@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\bin\Debug\CalculateAreaCircumferenceOfCircle.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\bin\Debug\CalculateAreaCircumferenceOfCircle.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\bin\Debug\CalculateAreaCircumferenceOfCircle.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\obj\Debug\CalculateAreaCircumferenceOfCircle.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\obj\Debug\CalculateAreaCircumferenceOfCircle.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\obj\Debug\CalculateAreaCircumferenceOfCircle.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\obj\Debug\CalculateAreaCircumferenceOfCircle.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaCircumferenceOfCircle\CalculateAreaCircumferenceOfCircle\obj\Debug\CalculateAreaCircumferenceOfCircle.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\bin\Debug\GetMaxOfThree.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\bin\Debug\GetMaxOfThree.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\bin\Debug\GetMaxOfThree.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\obj\Debug\GetMaxOfThree.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\obj\Debug\GetMaxOfThree.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\obj\Debug\GetMaxOfThree.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\obj\Debug\GetMaxOfThree.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\GetMaxOfThree\GetMaxOfThree\obj\Debug\GetMaxOfThree.pdb

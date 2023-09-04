@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\bin\Debug\Stack.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\bin\Debug\Stack.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\obj\Debug\Stack.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Stack\Stack\obj\Debug\Stack.pdb

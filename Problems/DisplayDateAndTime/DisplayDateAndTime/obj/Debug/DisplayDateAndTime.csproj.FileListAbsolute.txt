@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\bin\Debug\DisplayDateAndTime.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\bin\Debug\DisplayDateAndTime.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\bin\Debug\DisplayDateAndTime.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\obj\Debug\DisplayDateAndTime.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\obj\Debug\DisplayDateAndTime.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\obj\Debug\DisplayDateAndTime.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\obj\Debug\DisplayDateAndTime.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DisplayDateAndTime\DisplayDateAndTime\obj\Debug\DisplayDateAndTime.pdb

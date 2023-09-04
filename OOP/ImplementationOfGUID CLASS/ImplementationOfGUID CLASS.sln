@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementationOfGUID CLASS", "ImplementationOfGUID CLASS\ImplementationOfGUID CLASS.csproj", "{0285C8C0-4587-4A00-9BA9-B4143DA5BB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0285C8C0-4587-4A00-9BA9-B4143DA5BB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0285C8C0-4587-4A00-9BA9-B4143DA5BB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0285C8C0-4587-4A00-9BA9-B4143DA5BB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0285C8C0-4587-4A00-9BA9-B4143DA5BB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CBFAB5-6078-4761-99C9-1A0B4A6FDADE}
+	EndGlobalSection
+EndGlobal

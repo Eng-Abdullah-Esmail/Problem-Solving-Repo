@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\bin\Debug\CountNumberOf1BitsInSetsXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\bin\Debug\CountNumberOf1BitsInSetsXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\bin\Debug\CountNumberOf1BitsInSetsXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\obj\Debug\CountNumberOf1BitsInSetsXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\obj\Debug\CountNumberOf1BitsInSetsXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\obj\Debug\CountNumberOf1BitsInSetsXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\obj\Debug\CountNumberOf1BitsInSetsXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CountNumberOf1BitsInSetsXOR\CountNumberOf1BitsInSetsXOR\obj\Debug\CountNumberOf1BitsInSetsXOR.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\bin\Debug\EncryptionUsingXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\bin\Debug\EncryptionUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\bin\Debug\EncryptionUsingXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\obj\Debug\EncryptionUsingXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\obj\Debug\EncryptionUsingXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\obj\Debug\EncryptionUsingXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\obj\Debug\EncryptionUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\EncryptionUsingXOR\EncryptionUsingXOR\obj\Debug\EncryptionUsingXOR.pdb

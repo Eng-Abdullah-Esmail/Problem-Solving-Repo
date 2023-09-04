@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\bin\Debug\CheckOddEvenParityXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\bin\Debug\CheckOddEvenParityXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\bin\Debug\CheckOddEvenParityXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\obj\Debug\CheckOddEvenParityXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\obj\Debug\CheckOddEvenParityXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\obj\Debug\CheckOddEvenParityXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\obj\Debug\CheckOddEvenParityXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CheckOddEvenParityXOR\CheckOddEvenParityXOR\obj\Debug\CheckOddEvenParityXOR.pdb

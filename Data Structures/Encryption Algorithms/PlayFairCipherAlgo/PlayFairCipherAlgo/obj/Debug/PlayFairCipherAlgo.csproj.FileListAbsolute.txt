@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\bin\Debug\PlayFairCipherAlgo.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\bin\Debug\PlayFairCipherAlgo.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\bin\Debug\PlayFairCipherAlgo.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\obj\Debug\PlayFairCipherAlgo.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\obj\Debug\PlayFairCipherAlgo.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\obj\Debug\PlayFairCipherAlgo.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\obj\Debug\PlayFairCipherAlgo.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Encryption Algorithms\PlayFairCipherAlgo\PlayFairCipherAlgo\obj\Debug\PlayFairCipherAlgo.pdb

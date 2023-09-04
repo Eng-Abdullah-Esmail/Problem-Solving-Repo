@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\bin\Debug\5thSubtractNumbers.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\bin\Debug\5thSubtractNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\bin\Debug\5thSubtractNumbers.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\obj\Debug\5thSubtractNumbers.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\obj\Debug\5thSubtractNumbers.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\obj\Debug\5thSubtractNumbers.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\obj\Debug\5thSubtractNumbers.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\5thSubtractNumbers\5thSubtractNumbers\obj\Debug\5thSubtractNumbers.pdb

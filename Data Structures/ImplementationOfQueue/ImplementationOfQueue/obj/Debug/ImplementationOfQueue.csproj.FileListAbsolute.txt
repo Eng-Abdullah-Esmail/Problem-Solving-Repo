@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\bin\Debug\ImplementationOfQueue.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\bin\Debug\ImplementationOfQueue.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\bin\Debug\ImplementationOfQueue.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\obj\Debug\ImplementationOfQueue.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\obj\Debug\ImplementationOfQueue.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\obj\Debug\ImplementationOfQueue.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\obj\Debug\ImplementationOfQueue.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\ImplementationOfQueue\ImplementationOfQueue\obj\Debug\ImplementationOfQueue.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\bin\Debug\SquareRootOfNum.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\bin\Debug\SquareRootOfNum.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\bin\Debug\SquareRootOfNum.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\obj\Debug\SquareRootOfNum.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\obj\Debug\SquareRootOfNum.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\obj\Debug\SquareRootOfNum.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\obj\Debug\SquareRootOfNum.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\SquareRootOfNum\SquareRootOfNum\obj\Debug\SquareRootOfNum.pdb

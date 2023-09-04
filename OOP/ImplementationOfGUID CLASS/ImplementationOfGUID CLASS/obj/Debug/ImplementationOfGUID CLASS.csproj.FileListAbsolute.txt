@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\bin\Debug\ImplementationOfGUID CLASS.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\bin\Debug\ImplementationOfGUID CLASS.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\bin\Debug\ImplementationOfGUID CLASS.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\obj\Debug\ImplementationOfGUID CLASS.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\obj\Debug\ImplementationOfGUID CLASS.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\obj\Debug\ImplementationOfGUID CLASS.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\obj\Debug\ImplementationOfGUID CLASS.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ImplementationOfGUID CLASS\ImplementationOfGUID CLASS\obj\Debug\ImplementationOfGUID CLASS.pdb

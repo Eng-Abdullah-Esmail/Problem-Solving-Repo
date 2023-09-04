@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\bin\Debug\DetectingChangesInDataXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\bin\Debug\DetectingChangesInDataXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\bin\Debug\DetectingChangesInDataXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\obj\Debug\DetectingChangesInDataXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\obj\Debug\DetectingChangesInDataXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\obj\Debug\DetectingChangesInDataXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\obj\Debug\DetectingChangesInDataXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\DetectingChangesInDataXOR\DetectingChangesInDataXOR\obj\Debug\DetectingChangesInDataXOR.pdb

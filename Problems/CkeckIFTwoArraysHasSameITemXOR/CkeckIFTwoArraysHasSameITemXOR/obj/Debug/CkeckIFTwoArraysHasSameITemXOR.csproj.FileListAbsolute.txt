@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\bin\Debug\CkeckIFTwoArraysHasSameITemXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\bin\Debug\CkeckIFTwoArraysHasSameITemXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\bin\Debug\CkeckIFTwoArraysHasSameITemXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\obj\Debug\CkeckIFTwoArraysHasSameITemXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\obj\Debug\CkeckIFTwoArraysHasSameITemXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\obj\Debug\CkeckIFTwoArraysHasSameITemXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\obj\Debug\CkeckIFTwoArraysHasSameITemXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CkeckIFTwoArraysHasSameITemXOR\CkeckIFTwoArraysHasSameITemXOR\obj\Debug\CkeckIFTwoArraysHasSameITemXOR.pdb

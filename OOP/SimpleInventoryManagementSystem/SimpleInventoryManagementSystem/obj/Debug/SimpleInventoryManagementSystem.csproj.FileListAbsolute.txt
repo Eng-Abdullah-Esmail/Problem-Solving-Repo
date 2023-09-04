@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\SimpleInventoryManagementSystem.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\SimpleInventoryManagementSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\SimpleInventoryManagementSystem.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\SimpleInventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\SimpleInventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\SimpleInventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\SimpleInventoryManagementSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\SimpleInventoryManagementSystem.pdb

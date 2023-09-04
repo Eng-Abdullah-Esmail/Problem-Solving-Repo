@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\bin\Debug\ToDoListProject.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\bin\Debug\ToDoListProject.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\bin\Debug\ToDoListProject.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\obj\Debug\ToDoListProject.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\obj\Debug\ToDoListProject.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\obj\Debug\ToDoListProject.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\obj\Debug\ToDoListProject.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\ToDoListProject\ToDoListProject\obj\Debug\ToDoListProject.pdb

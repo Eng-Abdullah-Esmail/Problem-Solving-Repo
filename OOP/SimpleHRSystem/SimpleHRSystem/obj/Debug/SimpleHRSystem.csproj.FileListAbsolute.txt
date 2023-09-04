@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\bin\Debug\SimpleHRSystem.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\bin\Debug\SimpleHRSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\bin\Debug\SimpleHRSystem.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\obj\Debug\SimpleHRSystem.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\obj\Debug\SimpleHRSystem.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\obj\Debug\SimpleHRSystem.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\obj\Debug\SimpleHRSystem.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\OOP\Projects\SimpleHRSystem\SimpleHRSystem\obj\Debug\SimpleHRSystem.pdb

@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\bin\Debug\CalculateAreaAndPerimeterOfRectangle.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\bin\Debug\CalculateAreaAndPerimeterOfRectangle.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\bin\Debug\CalculateAreaAndPerimeterOfRectangle.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\obj\Debug\CalculateAreaAndPerimeterOfRectangle.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\obj\Debug\CalculateAreaAndPerimeterOfRectangle.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\obj\Debug\CalculateAreaAndPerimeterOfRectangle.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\obj\Debug\CalculateAreaAndPerimeterOfRectangle.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\CalculateAreaAndPerimeterOfRectangle\CalculateAreaAndPerimeterOfRectangle\obj\Debug\CalculateAreaAndPerimeterOfRectangle.pdb

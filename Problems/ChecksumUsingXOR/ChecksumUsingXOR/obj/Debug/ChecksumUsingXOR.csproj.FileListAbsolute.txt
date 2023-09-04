@@ -1,0 +1,8 @@
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\bin\Debug\ChecksumUsingXOR.exe.config
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\bin\Debug\ChecksumUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\bin\Debug\ChecksumUsingXOR.pdb
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\obj\Debug\ChecksumUsingXOR.csproj.AssemblyReference.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\obj\Debug\ChecksumUsingXOR.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\obj\Debug\ChecksumUsingXOR.csproj.CoreCompileInputs.cache
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\obj\Debug\ChecksumUsingXOR.exe
+D:\A Programming\Pro Lang\C#\Algorithms And Problem Solving\C#Seris for the website\ChecksumUsingXOR\ChecksumUsingXOR\obj\Debug\ChecksumUsingXOR.pdb

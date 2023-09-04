@@ -1,0 +1,8 @@
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\bin\Debug\Queue.exe.config
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\bin\Debug\Queue.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\bin\Debug\Queue.pdb
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\obj\Debug\Queue.csproj.SuggestedBindingRedirects.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\obj\Debug\Queue.exe
+D:\Programming\problem sovling c++ practices\c# problems exercises\Data Structue\Queue\Queue\obj\Debug\Queue.pdb
