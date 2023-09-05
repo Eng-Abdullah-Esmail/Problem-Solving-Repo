@@ -1,0 +1,8 @@
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\bin\Debug\FindLogestPalindromicSubstring.exe.config
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\bin\Debug\FindLogestPalindromicSubstring.exe
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\bin\Debug\FindLogestPalindromicSubstring.pdb
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\obj\Debug\FindLogestPalindromicSubstring.csproj.AssemblyReference.cache
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\obj\Debug\FindLogestPalindromicSubstring.csproj.SuggestedBindingRedirects.cache
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\obj\Debug\FindLogestPalindromicSubstring.csproj.CoreCompileInputs.cache
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\obj\Debug\FindLogestPalindromicSubstring.exe
+D:\A Programming\MyGitHubProj\Problem-Solving-Repo\Problems\FindLogestPalindromicSubstring\FindLogestPalindromicSubstring\obj\Debug\FindLogestPalindromicSubstring.pdb

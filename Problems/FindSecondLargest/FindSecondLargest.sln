@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSecondLargest", "FindSecondLargest\FindSecondLargest.csproj", "{49571505-7A2E-42A0-83A9-89DE26AC38B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49571505-7A2E-42A0-83A9-89DE26AC38B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49571505-7A2E-42A0-83A9-89DE26AC38B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49571505-7A2E-42A0-83A9-89DE26AC38B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49571505-7A2E-42A0-83A9-89DE26AC38B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE14425-F89A-47E2-AF99-0F7647D4CBD8}
+	EndGlobalSection
+EndGlobal
